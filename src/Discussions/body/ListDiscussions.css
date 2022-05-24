@@ -1,0 +1,6 @@
+.list_discussions{
+    display: flex;
+    border-top: 1px solid #f0f2f5;
+    flex-direction: column;
+    overflow-y: scroll;
+}

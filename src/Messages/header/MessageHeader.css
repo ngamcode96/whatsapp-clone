@@ -1,0 +1,27 @@
+.message_header{
+    display: flex;
+    align-items: center;
+    padding: 10px 12px;
+    justify-content: space-between;
+    border-left: 1px solid rgb(227, 222, 222);
+    background-color: #f0f2f5;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+}
+
+.user_name_seen{
+    display: flex;
+    flex-direction: column;
+}
+
+.user span{
+    margin-left: 15px;
+}
+
+.last_seen{
+    font-size: 13px;
+    color: #949393;
+}

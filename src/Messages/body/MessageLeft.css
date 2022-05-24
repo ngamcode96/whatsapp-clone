@@ -1,0 +1,20 @@
+.message_left{
+    background-color: #ffffff;
+    display:flex;
+    padding:6px 7px 8px 9px;
+    border-radius: 7.5px;
+    box-sizing: border-box;
+    position: relative;
+    flex-wrap: wrap;
+    max-width: 70vw;
+    width: fit-content;
+    justify-content: space-between;
+    box-shadow: 0 1px .5px rgb(189, 189, 189);
+    margin-bottom: 7px;
+}
+
+.msg_time{
+    margin-top: 15px;
+    font-size: xx-small;
+    margin-left: 15px;
+}

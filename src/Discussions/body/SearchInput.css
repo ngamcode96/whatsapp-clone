@@ -1,0 +1,18 @@
+.search{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin: 5px 12px;
+    flex-wrap: wrap;
+}
+
+.search_input{
+    display: flex;
+    flex: 0.96;
+    background-color: #f0f2f5;
+    padding: 12px;
+    height: 20px;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+}

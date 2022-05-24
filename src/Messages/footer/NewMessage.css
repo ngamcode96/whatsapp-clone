@@ -1,0 +1,6 @@
+.new_message{
+    display: flex;
+    height: 11vh;
+    background-color: #f0f2f5;
+    align-items: center;
+}

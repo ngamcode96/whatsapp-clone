@@ -1,0 +1,7 @@
+.typing_message{
+    width: 50vw;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}

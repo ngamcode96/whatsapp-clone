@@ -1,0 +1,19 @@
+.user_message{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    padding: 10px 12px;
+    align-items: center;
+
+}
+
+.user_message:hover{
+    cursor: pointer;
+    background-color: #e9edef;
+}
+
+.last_user_msg_time{
+    color: #989898;
+    font-size: 13px;
+}
+

@@ -1,0 +1,9 @@
+.right{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    flex: 0.6;
+    justify-content:space-between;
+    background-color: #e9edef;
+    background-image: url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png');
+}

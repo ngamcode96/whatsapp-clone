@@ -1,0 +1,13 @@
+.last_user_message{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    width: 100%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f0f2f5;
+}
+
+.user_msg{
+    color: rgb(130, 127, 127);
+
+}
